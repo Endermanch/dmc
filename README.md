@@ -1,1 +1,1 @@
-# Virii
+# destr0yd's malware collection
